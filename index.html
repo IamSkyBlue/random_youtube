@@ -6,7 +6,7 @@
             fetch("https://iamskyblue.github.io/random_youtube/urls.json")
                 .then((res) => res.json())
                 .then((urls) => {
-                    var url = urls[Math.floor(Math.random() * urls.length)];
+                    var url = urls[Math.floor(Math.random() * urls.length)].url;
                     window.location.replace(url);
                 });
         </script>

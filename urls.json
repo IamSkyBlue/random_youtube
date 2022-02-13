@@ -1,4 +1,66 @@
 [
-    "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    "https://www.youtube.com/watch?v=3cKtSlsYVEU"
+    {
+        "title": "Rick Astley - Never Gonna Give You Up",
+        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+        "title": "Earth Wind & Fire - September",
+        "url": "https://www.youtube.com/watch?v=3cKtSlsYVEU"
+    },
+    {
+        "title": "Jia Ma - 把你的腦晶片交出來 feat.艾可",
+        "url": "https://www.youtube.com/watch?v=UF__eLnHOn8"
+    },
+    {
+        "title": "ヨルシカ - ただ君に晴れ",
+        "url": "https://www.youtube.com/watch?v=-VKIqrvVOpo"
+    },
+    {
+        "title": "優里 - ドライフラワー",
+        "url": "https://www.youtube.com/watch?v=kzZ6KXDM1RI"
+    },
+    {
+        "title": "moumoon - トモシビ",
+        "url": "https://www.youtube.com/watch?v=BEW8F_eZHaY"
+    },
+    {
+        "title": "C418 - Sweden",
+        "url": "https://www.youtube.com/watch?v=_3ngiSxVCBs"
+    },
+    {
+        "title": "Shawn Wasabi - Marble Soda",
+        "url": "https://www.youtube.com/watch?v=qAeybdD5UoQ"
+    },
+    {
+        "title": "Daft Punk - Give Life Back to Music",
+        "url": "https://www.youtube.com/watch?v=zKSsP2084nU"
+    },
+    {
+        "title": "The End Of Evangelion - Komm, süsser Tod",
+        "url": "https://www.youtube.com/watch?v=zc6KUlXP--M"
+    },
+    {
+        "title": "宇多田ヒカル - 桜流し",
+        "url": "https://www.youtube.com/watch?v=CZfPKvtdfoc"
+    },
+    {
+        "title": "람다람 - Soda City Funk",
+        "url": "https://www.youtube.com/watch?v=zhIScvlFn2w"
+    },
+    {
+        "title": "Anri - Last Summer Whisper",
+        "url": "https://www.youtube.com/watch?v=SNq4zqTN_DQ"
+    },
+    {
+        "title": "多多 x 以捷 - 走建國路回家但後座少ㄌ泥",
+        "url": "https://www.youtube.com/watch?v=edhd3aZotjQ"
+    },
+    {
+        "title": "珂拉琪 - 萬千花蕊慈母悲哀",
+        "url": "https://www.youtube.com/watch?v=kkUWlcjmOew"
+    },
+    {
+        "title": "Capital Cities - Safe And Sound",
+        "url": "https://www.youtube.com/watch?v=47dtFZ8CFo8"
+    }
 ]
