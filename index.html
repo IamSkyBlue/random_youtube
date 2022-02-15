@@ -3,12 +3,17 @@
     <head>
         <meta charset="utf-8" />
         <script type="text/javascript">
-            fetch("https://iamskyblue.github.io/random_youtube/urls.json")
-                .then((res) => res.json())
-                .then((urls) => {
-                    var url = urls[Math.floor(Math.random() * urls.length)].url;
-                    window.location.replace(url);
-                });
+            fetch(
+                "https://api.countapi.xyz/hit/iamskyblue.github.io/random_youtube_visits_count"
+            ).then((res) => {
+                fetch("https://iamskyblue.github.io/random_youtube/urls.json")
+                    .then((res) => res.json())
+                    .then((urls) => {
+                        var url =
+                            urls[Math.floor(Math.random() * urls.length)].url;
+                        window.location.replace(url);
+                    });
+            });
         </script>
         <title>Redirecting...</title>
     </head>
